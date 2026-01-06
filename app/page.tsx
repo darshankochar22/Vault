@@ -26,7 +26,7 @@ export default function Home() {
 
         {/*<RaceDayCountdown />*/}
         {/*<InteractiveSchedule />*/}
-      { /*  <HistoricalResultsAccordion /> */ }
+        <HistoricalResultsAccordion /> 
 
         {/*<Footer />*/}
       </div>
